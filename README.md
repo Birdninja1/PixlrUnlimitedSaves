@@ -6,7 +6,7 @@ A simple but powerful browser extension that allows you to bypass the daily save
 
 ## ✨ Credits
 
-This tool was created by **Birdninja1**. All credit for the concept and code goes to them.
+This tool was created by **Birdninja1**. Please do not remove this line of credit.
 
 ---
 
