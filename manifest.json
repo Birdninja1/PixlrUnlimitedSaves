@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Pixlr Unlimited Saves",
+  "version": "1.12",
+  "description": "Mini Tool that allows you to save unlimited images on Pixlr. Made by Birdninja1",
+  "permissions": [
+    "browsingData",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*.pixlr.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
